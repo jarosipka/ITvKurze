@@ -13,7 +13,7 @@ body, html {
 }
 
 #menu li {
-  float: left;
+  display: inline-block;
 }
 
 
